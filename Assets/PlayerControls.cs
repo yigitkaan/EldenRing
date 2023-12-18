@@ -39,17 +39,6 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
             ],
             ""bindings"": [
                 {
-                    ""name"": """",
-                    ""id"": ""d2721cb4-90cc-4d4e-8a62-c8b2e3fbe152"",
-                    ""path"": """",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": """",
-                    ""action"": ""Movement"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
-                {
                     ""name"": ""Letf Stick"",
                     ""id"": ""e13d6ba1-eba5-4d67-8b9c-c522c529d07a"",
                     ""path"": ""2DVector"",
